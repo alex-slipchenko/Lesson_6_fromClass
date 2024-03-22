@@ -1,0 +1,7 @@
+table {
+  border: 0px solid black;
+}
+table tr.active {
+  color: green;
+  font-weight: bold;
+}
